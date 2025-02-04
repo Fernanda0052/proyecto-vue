@@ -1,3 +1,8 @@
+<!-- ## Autor
+-nombre: Luisa Fernanda Robles Bailón
+-email:a23311051@uthemrosillo.edu.mx
+github: [@Fernanda0052] https://github.com/Fernanda0052/proyecto-vue.git -->
+
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -15,6 +20,7 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 ```sh
 npm install
 ```
+
 
 ### Compile and Hot-Reload for Development
 
